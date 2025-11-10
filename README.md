@@ -4,6 +4,6 @@
 
 ## Установка
 ```bash
-git clone https://github.com/YOUR_USERNAME/osm-house-generator.git
+git clone https://github.com/brawlstarsenjoyer/osm-house-generator.git
 cd osm-house-generator
 pip install -r requirements.txt
